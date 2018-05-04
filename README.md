@@ -1,2 +1,3 @@
 # hello-world
-"hello-world" repo is part of discover github world starting from beginning
+
+### this is not one more "hello-world" repo, it's my 1st GitHub repo! ###
